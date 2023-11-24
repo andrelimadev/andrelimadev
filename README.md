@@ -15,10 +15,9 @@ Estou iniciando o aprendizado em:
 
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
-<a href="https://www.instagram.com/andrelimadev/" target="blank">Instagram</a><span> | </span>
+<a href="https://www.instagram.com/andrelimadev/" target="blank">Instagram</a><span> :: </span>
 <a href="https://www.linkedin.com/in/andrelima-dev/" target="blank">LinkedIn</a>
 </p>
-
 
 ![Andre Lima - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelimadev&show_icons=true&theme=dark)<br><br>
 Pretendo evoluir na carreira de programador até atingir a categoria Full Stack.<br><br>
