@@ -13,14 +13,13 @@ Estou iniciando o aprendizado em:
 
 <strong>Estou em transição de carreira para Desenvolvedor Front-end.</strong>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes Sociais</h3>
 <p align="left">
-<a href="https://www.instagram.com/andrelimadev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andrelima-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andrelimadev/" target="blank">Instagram</a><span> | </span>
+<a href="https://www.linkedin.com/in/andrelima-dev/" target="blank">LinkedIn</a>
 </p>
 
 
-[![André Lima stats](https://github-readme-stats.vercel.app/api?username=andrelimadev)](https://github.com/anuraghazra/github-readme-stats)
-
+![Andre Lima - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelimadev&show_icons=true&theme=dark)<br><br>
 Pretendo evoluir na carreira de programador até atingir a categoria Full Stack.<br><br>
 Como entrar em contato comigo: aslimadev@gmail.com
