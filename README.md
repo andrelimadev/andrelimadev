@@ -19,6 +19,6 @@ Estou iniciando o aprendizado em:
 <a href="https://www.linkedin.com/in/andrelima-dev/" target="blank">LinkedIn</a>
 </p>
 
-![Andre Lima - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelimadev&show_icons=true&theme=dark)<br><br>
+![Andre Lima - GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelimadev&show_icons=true&theme=merko)<br><br>
 Pretendo evoluir na carreira de programador até atingir a categoria Full Stack.<br><br>
 Como entrar em contato comigo: aslimadev@gmail.com
